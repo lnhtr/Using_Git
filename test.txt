@@ -1,3 +1,6 @@
-The first
-The second
-The third
+1. git init
+2. git add .
+3. git commit -s -m "file_name"
+4. git romte add origin "link_to_direct_a_repo_github"
+5. git push origin "branch_name"
+6. 
