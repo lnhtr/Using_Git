@@ -8,4 +8,6 @@
 7. changed file -- staging area -- commit area (sẵn sàng push)
               git add        git commit 
           red -> green     green -> nothing   
+8. Sửa lại commit: git commit --am -m "commit_text"
+9. Ý nghĩa của "origin": tên của repository
 
